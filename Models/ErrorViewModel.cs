@@ -1,4 +1,4 @@
-namespace MvcMovie.Models;
+namespace app_severice_test_01.Models;
 
 public class ErrorViewModel
 {

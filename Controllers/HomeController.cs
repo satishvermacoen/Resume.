@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using MvcMovie.Models;
+using app_severice_test_01.Models;
 
-namespace MvcMovie.Controllers;
+namespace app_severice_test_01.Controllers;
 
 public class HomeController : Controller
 {
